@@ -1,0 +1,14 @@
+{
+  "requests": 120,
+  "faulted_requests": 32,
+  "wrong_answers": 32,
+  "wrong_among_unfaulted": 0,
+  "replay_identical": 120,
+  "replay_determinism_rate": 1,
+  "attribution_correct": 32,
+  "attribution_accuracy_traceweave": 1,
+  "surgery_fixes": 32,
+  "surgery_fix_rate": 1,
+  "baseline_correct": 4,
+  "attribution_accuracy_log_only_baseline": 0.125
+}
